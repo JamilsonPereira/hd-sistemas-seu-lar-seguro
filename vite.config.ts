@@ -8,7 +8,7 @@ export default defineConfig(({ mode }) => ({
   // Para GitHub Pages, use o nome do seu repositório
   // Se o repositório for "hd-sistemas-seu-lar-seguro", o base será "/hd-sistemas-seu-lar-seguro/"
   // Para produção local ou domínio customizado, use "/"
-  base: process.env.NODE_ENV === "production" 
+  base: mode === "production" 
     ? (process.env.VITE_BASE_URL || "/hd-sistemas-seu-lar-seguro/")
     : "/",
   server: {
