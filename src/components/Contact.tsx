@@ -2,10 +2,10 @@ import { Button } from "@/components/ui/button";
 import { MessageCircle, Instagram, Phone, Mail, MapPin } from "lucide-react";
 
 const Contact = () => {
-  const whatsappNumber = "5511999999999"; // Substitua pelo número real
+  const whatsappNumber = "5511977054507"; // Substitua pelo número real
   const whatsappMessage = "Olá! Gostaria de solicitar um orçamento.";
   const whatsappUrl = `https://wa.me/${whatsappNumber}?text=${encodeURIComponent(whatsappMessage)}`;
-  const instagramUrl = "https://instagram.com/hdsistemas"; // Substitua pelo Instagram real
+  const instagramUrl = "https://www.instagram.com/hdsistemaseguranca/"; // Substitua pelo Instagram real
 
   return (
     <section className="py-20 bg-background" id="contato">
