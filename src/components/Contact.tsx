@@ -44,7 +44,7 @@ const Contact = () => {
               <Phone className="w-6 h-6 text-primary flex-shrink-0 mt-1" />
               <div>
                 <h3 className="font-semibold mb-1">Telefone</h3>
-                <p className="text-sm text-muted-foreground">(11) 99999-9999</p>
+                <p className="text-sm text-muted-foreground">(11) 97705-4507/ 95307-0461</p>
               </div>
             </div>
 
@@ -52,7 +52,7 @@ const Contact = () => {
               <Mail className="w-6 h-6 text-primary flex-shrink-0 mt-1" />
               <div>
                 <h3 className="font-semibold mb-1">E-mail</h3>
-                <p className="text-sm text-muted-foreground">contato@hdsistemas.com.br</p>
+                <p className="text-sm text-muted-foreground">hd.sistematecnologia@gmail.com</p>
               </div>
             </div>
 
@@ -60,7 +60,7 @@ const Contact = () => {
               <MapPin className="w-6 h-6 text-primary flex-shrink-0 mt-1" />
               <div>
                 <h3 className="font-semibold mb-1">Atendimento</h3>
-                <p className="text-sm text-muted-foreground">Grande São Paulo</p>
+                <p className="text-sm text-muted-foreground">São Paulo - Grande São Paulo</p>
               </div>
             </div>
           </div>

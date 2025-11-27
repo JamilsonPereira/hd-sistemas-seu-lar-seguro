@@ -3,7 +3,7 @@ import { Shield, MessageCircle } from "lucide-react";
 import heroImage from "@/assets/hero-security.jpg";
 
 const Hero = () => {
-  const whatsappNumber = "5511999999999"; // Substitua pelo número real
+  const whatsappNumber = "5511977054507"; // Substitua pelo número real
   const whatsappMessage = "Olá! Gostaria de saber mais sobre os serviços da HD Sistemas.";
   const whatsappUrl = `https://wa.me/${whatsappNumber}?text=${encodeURIComponent(whatsappMessage)}`;
 
